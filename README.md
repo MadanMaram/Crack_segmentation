@@ -91,7 +91,6 @@ These images could be found in the folder ./test_imgs in the same repository
 | ![](./assets/noncrack.jpg) | ![](./assets/crack_noise.jpg)| ![](./assets/crack_in_large_context.jpeg)| 
 
 
-I am very welcome to further idea from you. please drop me an email at khanhhh89@gmail.com if you think of other cases
 
 # Training
 - step 1. download the dataset from [the link](https://drive.google.com/open?id=1xrOqv0-3uMHjZyEUrerOYiYXW_E8SUMP)
